@@ -6,8 +6,8 @@
 
 | | |
 |---|---|
-| Notebook | `app/final_stock_market.ipynb` |
-| Documented run | `train_final/final_stock_market.ipynb`, executed on Google Colab with a T4 GPU, 8 November 2026 |
+| Notebook | `stock_market_final_year_project.ipynb` |
+| Documented run | `stock_market_final_year_project.ipynb`, executed on Google Colab with a T4 GPU, 8 November 2026 |
 | Run time | 37.4 minutes, 0 errors, 63 output files |
 | Data | Yahoo Finance daily prices, 3 March 2008 to 6 November 2026, 5 assets and 2 volatility indices |
 | Every number, table, printed line and figure in this document | copied automatically from that run, not typed by hand |
